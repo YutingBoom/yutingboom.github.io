@@ -1,27 +1,27 @@
-<?xml-stylesheet type="text/xsl" href="http://yuting.casa/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://yutingboom.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yuting.casa/posts/my-first-post/</loc>
+    <loc>http://yutingboom.github.io/posts/my-first-post/</loc>
     <lastmod>2020-04-05T17:26:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yuting.casa/posts/</loc>
+    <loc>http://yutingboom.github.io/posts/</loc>
     <lastmod>2020-04-05T17:26:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yuting.casa/</loc>
+    <loc>http://yutingboom.github.io/</loc>
     <lastmod>2020-04-05T17:26:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yuting.casa/categories/</loc>
+    <loc>http://yutingboom.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://yuting.casa/tags/</loc>
+    <loc>http://yutingboom.github.io/tags/</loc>
   </url>
   
 </urlset>
