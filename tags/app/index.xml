@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuting</title>
-    <link>http://yutingboom.github.io/</link>
-    <description>Recent content on Yuting</description>
+    <title>APP on Yuting</title>
+    <link>http://yutingboom.github.io/tags/app/</link>
+    <description>Recent content in APP on Yuting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2020 17:26:14 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 15:43:48 +0800</lastBuildDate>
     
-        <atom:link href="http://yutingboom.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yutingboom.github.io/tags/app/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://yutingboom.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 05 Apr 2020 17:26:14 +0800</pubDate>
-      
-      <guid>http://yutingboom.github.io/posts/my-first-post/</guid>
-      
-        <description></description>
-      
-    </item>
     
     <item>
       <title>Medical Consultant</title>
@@ -28,10 +17,8 @@
       <pubDate>Sun, 05 Apr 2020 15:43:48 +0800</pubDate>
       
       <guid>http://yutingboom.github.io/posts/untitled-1/</guid>
-      
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
-      
     </item>
     
   </channel>
