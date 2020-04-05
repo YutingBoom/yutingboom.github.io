@@ -1,17 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="http://yuting.casa/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://yuting.casa/posts/my-first-post/</loc>
+    <lastmod>2020-04-05T17:26:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://yuting.casa/posts/</loc>
+    <lastmod>2020-04-05T17:26:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://yuting.casa/</loc>
+    <lastmod>2020-04-05T17:26:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yuting.casa/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://yuting.casa/tags/</loc>
   </url>
   
 </urlset>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuting</title>
-    <link>http://yuting.casa/</link>
-    <description>Recent content on Yuting</description>
+    <title>Posts on Yuting</title>
+    <link>http://yuting.casa/posts/</link>
+    <description>Recent content in Posts on Yuting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Apr 2020 17:26:14 +0800</lastBuildDate>
     
-        <atom:link href="http://yuting.casa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yuting.casa/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,7 @@
       <pubDate>Sun, 05 Apr 2020 17:26:14 +0800</pubDate>
       
       <guid>http://yuting.casa/posts/my-first-post/</guid>
-      
-        <description></description>
-      
+      <description></description>
     </item>
     
   </channel>
