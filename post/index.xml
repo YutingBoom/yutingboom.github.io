@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Yuting Liu | PM and UX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2020 17:26:14 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 15:43:48 +0800</lastBuildDate>
     
 	<atom:link href="https://yuting.casa/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,15 +28,6 @@
       <guid>https://yuting.casa/post/jane-theme-preview/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is created by &lt;a href=&#34;http://daringfireball.net/&#34;&gt;Daring Fireball&lt;/a&gt;, the original guideline is &lt;a href=&#34;http://daringfireball.net/projects/markdown/syntax&#34;&gt;here&lt;/a&gt;. Its syntax, however, varies between different parsers or editors.&lt;/p&gt;
 &lt;p&gt;Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://yuting.casa/posts/my-first-post/</link>
-      <pubDate>Sun, 05 Apr 2020 17:26:14 +0800</pubDate>
-      
-      <guid>https://yuting.casa/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
     <item>
