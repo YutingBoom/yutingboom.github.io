@@ -23,6 +23,27 @@
   </url>
   
   <url>
+    <loc>https://yuting.casa/resume/</loc>
+    <lastmod>2020-04-10T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuting.casa/intro/</loc>
+    <lastmod>2020-04-15T18:28:28+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuting.casa/</loc>
+    <lastmod>2020-04-15T18:28:28+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://yuting.casa/tags/app/</loc>
     <lastmod>2020-04-05T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -66,7 +87,7 @@
   
   <url>
     <loc>https://yuting.casa/post/</loc>
-    <lastmod>2020-04-05T15:43:48+08:00</lastmod>
+    <lastmod>2020-04-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -86,50 +107,15 @@
   </url>
   
   <url>
-    <loc>https://yuting.casa/</loc>
-    <lastmod>2020-04-10T21:41:52+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuting.casa/categories/docs/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuting.casa/tags/math/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuting.casa/categories/math/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://yuting.casa/post/math-preview/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <lastmod>2020-04-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yuting.casa/tags/preview/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuting.casa/tags/tag-6/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -143,6 +129,20 @@
   
   <url>
     <loc>https://yuting.casa/categories/shortcodes/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuting.casa/tags/tag-6/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuting.casa/categories/docs/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -179,34 +179,6 @@
   <url>
     <loc>https://yuting.casa/tags/tag-7/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuting.casa/tags/footnote/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuting.casa/post/doc-footnote-preview/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuting.casa/tags/markdown/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuting.casa/tags/tag-11/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
