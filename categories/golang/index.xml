@@ -12,22 +12,12 @@
     
     
     <item>
-      <title>Home page</title>
+      <title>简易康</title>
       <link>https://yuting.casa/post/intro/</link>
       <pubDate>Wed, 15 Apr 2020 18:28:28 +0200</pubDate>
       
       <guid>https://yuting.casa/post/intro/</guid>
-      <description>research research research It makes use of a variety of open source projects including: Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://yuting.casa/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuting.casa/post/creating-a-new-theme/</guid>
-      <description>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>简易康咨询 患者就诊结束后无法持续与医生沟通联系，无法得到任何治疗反馈，不利于患者恢复健康，不便于患者长期关注健康。 2018年，上海易恒健康⽣</description>
     </item>
     
   </channel>

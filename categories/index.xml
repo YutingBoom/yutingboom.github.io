@@ -38,41 +38,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>English</title>
-      <link>https://yuting.casa/categories/english/</link>
-      <pubDate>Sun, 05 Apr 2020 15:43:48 +0800</pubDate>
-      
-      <guid>https://yuting.casa/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>https://yuting.casa/categories/index/</link>
-      <pubDate>Sun, 05 Apr 2020 15:43:48 +0800</pubDate>
-      
-      <guid>https://yuting.casa/categories/index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://yuting.casa/categories/test/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://yuting.casa/categories/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://yuting.casa/categories/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuting.casa/categories/development/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

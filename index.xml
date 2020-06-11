@@ -12,228 +12,642 @@
     
     
     <item>
-      <title>Home page</title>
+      <title>简易康</title>
       <link>https://yuting.casa/post/intro/</link>
       <pubDate>Wed, 15 Apr 2020 18:28:28 +0200</pubDate>
       
       <guid>https://yuting.casa/post/intro/</guid>
       
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;research&#34;&gt;research&lt;/h3&gt;
-&lt;h3 id=&#34;research-1&#34;&gt;research&lt;/h3&gt;
-&lt;h3 id=&#34;research-2&#34;&gt;research&lt;/h3&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;article class=&#34;aup nobothblank bgw&#34;&gt;
+    &lt;section class=&#34;oneposition namecolor onetextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;h class=&#34;namesize&#34;&gt;简易康咨询&lt;/h&gt;
+            &lt;p class=&#34;onehpm onesize&#34;&gt;患者就诊结束后无法持续与医生沟通联系，无法得到任何治疗反馈，不利于患者恢复健康，不便于患者长期关注健康。&lt;/p&gt;
+            &lt;p class=&#34;oneppm onesize&#34;&gt;2018年，上海易恒健康⽣物科技集团（国内⼤健康领域⻰头）决定创建健康咨询服务平台“简易康”，为亚健康人群提供长期健康咨询、方案计划与专家反馈服务。&lt;/p&gt;
+            
+            &lt;/div&gt;  
+        &lt;/div&gt;      
+    &lt;/section&gt;
+    
+    &lt;section class=&#34;centerposition&#34;&gt;
+        &lt;img src=&#34;https://yuting.casa/image/CShow.png&#34; /&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;我的贡献&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                2018年5月，参与负责「咨询」模块的产品和交互设计，与1位营养师、2位中医师共事；2018年10月，产品上线，负责以用户需求、使用体验为中心的迭代工作。
+                &lt;/p&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                平台注册用户从0增长到280,000，日活约4,000；为「商城」导流，商城月销售额约32000元。
+                
+                &lt;/p&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CShow2.png&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:描述症状&amp;nbsp;&amp;nbsp;中:沟通交流&amp;nbsp;&amp;nbsp;右:咨询列表&amp;nbsp;&amp;nbsp;(用户端)
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+    
+    &lt;section class=&#34;nposition bglb ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title&#34;&gt;医患交流会发生什么？&lt;/div&gt;
+            &lt;p class=&#34;project-p nhpm&#34;&gt;
+                简易康整个项目的战略特色在健康计划及健康圈，「咨询」部分作为其基础，其目标在于满足医患交流需求，并改善竞品所存在的问题。据此，需知道：
+            &lt;/p&gt;
+            &lt;p class=&#34;project-p nppm&#34;&gt;
+                   医患交流什么？&lt;br&gt;
+                   竞品有什么功能？有什么问题？&lt;br&gt;
+            &lt;/p&gt;
+            &lt;p class=&#34;project-p nppm&#34;&gt;
+                    &lt;a href=&#34;https://shimo.im/docs/R6RVYofMNpo2N3bu/&#34; title=&#34;点击查看专家访谈记录与总结&#34; target=&#34;_blank&#34; class=&#34;project-hover&#34;&gt;专家访谈和专业书籍&lt;/a&gt;&lt;br&gt;
+                    我采访了6位专家，询问他们有关问诊的内容，以及线上线下交流的不同之处等，总结出问诊内容：用户基本信息、症状描述、病史、检查、诊断方案；&lt;br&gt;
+                    对应功能：用户健康档案、填写症状、档案、图片、健康计划；文字输入、语音输入、电话视频、表情。         &lt;br&gt;
+                
+            &lt;/p&gt;
+            &lt;p class=&#34;project-p nppm&#34;&gt;
+                    &lt;a href=&#34;https://shimo.im/sheets/KlkKVeeZ6nSVeBqd/MODOC/&#34; title=&#34;点击查看竞品分析表&#34; target=&#34;_blank&#34; &gt;竞品分析&lt;/a&gt;和&lt;a href=&#34;https://shimo.im/docs/V5qeWOBOo5SbF8AJ/&#34; title=&#34;点击查看评价内容与总结&#34; target=&#34;_blank&#34;&gt;评价收集&lt;/a&gt;&lt;br&gt;
+                    我调研了市场上前5同类产品的用户专家评价、咨询功能、背景，发现：&lt;br&gt;
+                    专家回复速度慢、有效性低，是现有产品的主要问题。
+                
+            &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title&#34; style=&#34;color:#B51B17&#34;&gt;如何提高医患交流效率？&lt;/div&gt;
+            &lt;p class=&#34;project-p nhpm&#34;&gt;
+                针对问题，追溯其原因，总结解决方案。&lt;br&gt;
+                通过添加常用语、语音输入、咨询列表分类设计提高专家回复速度；通过评价/举报、设置问诊价格、健康计划健康圈提高专家回复质量。&lt;br&gt;
+            &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm centerposition&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/Cinsight.png&#34; class=&#34;photosmaller&#34;/&gt;
+        &lt;/div&gt;  
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bglb nposition ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title&#34;&gt;设计细节&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    分析医患交流具体&lt;a href=&#34;https://shimo.im/sheets/ZzkLVrrD4dixj3QE/MODOC/&#34; title=&#34;点击查看案例分析&#34; target=&#34;_blank&#34; &gt;内容案例&lt;/a&gt;，分类专家交流内容，统计专家回复字数，发现：&lt;br&gt;&lt;br&gt;
+                    1. 常用语：专家使用重复性语句，礼貌性用语、询问问题、科普等，用于默认常用语；仅寻求多方案用户使用重复性语句，出现率低 
+                    &amp;rarr; &lt;span style=&#34;color:#B51B17&#34;&gt;&lt;b&gt;仅专家有「常用语」功能&lt;/b&gt;&lt;/span&gt; &lt;br&gt;
+                    2. 专家回复内容平均为10-40字/次，即1-4行输入框，即时通信软件多为显示5行 
+                    &amp;rarr; &lt;span style=&#34;color:#B51B17&#34;&gt;&lt;b&gt;输入框最多显示5行&lt;/b&gt;&lt;/span&gt; &lt;br&gt;
+                    3. 使用频率：文字&gt;&gt;语音&gt;图片&gt;电话视频&gt;表情，基于用户习惯，故表情和语音文字在一起，图片、视频放在更多功能里
+                    
+                     
+                &lt;/p&gt;     
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CVersion1.png&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:常用语&amp;nbsp;&amp;nbsp;中:输入框&amp;nbsp;&amp;nbsp;右:更多功能&amp;nbsp;&amp;nbsp;(专家端)
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+    
+    &lt;section class=&#34;bgw nposition ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title&#34;&gt;深入洞察&lt;/div&gt;
+            &lt;p class=&#34;project-p nhpm&#34;&gt;
+                之前探索专家回复速度慢原因，来自观察内容表面现象，受线下就医场景影响（看病人员众多等）；文字语音图片等功能没有进行科学的数据统计，角色分类。深入研究数据后发现之前的结论有偏颇。
+            &lt;/p&gt;
+            &lt;div class=&#34;project-title2&#34;&gt;提高专家回复速度&lt;/div&gt;
+            &lt;p class=&#34;project-p nppm&#34;&gt;
+                研究各竞品14位&lt;a href=&#34;https://shimo.im/sheets/gO3ox11nzPh4gxqD/MODOC/&#34; title=&#34;点击查看专家的回复频率&#34; target=&#34;_blank&#34; &gt;专家的回复频率&lt;/a&gt;，根据每日回答时间算出医生回复时间段，再根据月回复数，算出时回答数，确定其繁忙程度。专家回复时间平均分布于9-22点，每天平均服务19个用户，服务超过20个用户的几率为15%。故&lt;br&gt;
+            &lt;/p&gt;
+            &lt;p class=&#34;project-p nppm&#34;&gt;    
+                专家每天每时回复的患者不多，且通过响应时间及用户评论发现，回复速度慢最主要的原因是用户提问时间和专家的空闲时间不匹配&lt;br&gt;
+                &amp;rarr; 取消设置服务患者个数等功能，增加&lt;span style=&#34;color:#B51B17&#34;&gt;&lt;b&gt;专家设定上下线&lt;/b&gt;&lt;/span&gt;&lt;br&gt;
+            &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm centerposition&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CResearch1.png&#34; /&gt;
+        &lt;/div&gt;  
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CVersion2.png&#34; /&gt;
+        &lt;/div&gt;  
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;语音表情等功能块&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                通过研究1000+ 条&lt;a href=&#34;https://shimo.im/sheets/gO3ox11nyospl2qD/MODOC/&#34; title=&#34;点击查看内容形式比例数据&#34; target=&#34;_blank&#34; &gt;医患交流内容形式比例&lt;/a&gt;，分析专家用户使用不同形式内容频率&lt;br&gt;
+                用户：文字&gt;&gt;图片&gt;语音&gt;表情&lt;br&gt;
+                专家：文字&gt;&gt;语音&gt;图片&gt;电话视频&gt;表情&lt;br&gt;
+                &amp;rarr; &lt;span style=&#34;color:#B51B17&#34;&gt;&lt;b&gt;修改功能块的设计&lt;/b&gt;&lt;/span&gt;&lt;br&gt;
+                用户删除语音、表情功能（使用率极低，且可提高专家读取内容效率）&lt;br&gt;
+                专家删除表情功能（使用率为0，且有利于文字语音等的操作空间）
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm centerposition&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CScale.png&#34; /&gt;
+        &lt;/div&gt; 
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CVersion2user.png&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:改版前&amp;nbsp;&amp;nbsp;右:改版后&amp;nbsp;&amp;nbsp;(用户端) 
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CVersion2expert.png&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:改版前&amp;nbsp;&amp;nbsp;右:改版后&amp;nbsp;&amp;nbsp;(专家端) 
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bglb nposition ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title&#34;&gt;可用性测试&lt;/div&gt;
+            &lt;p class=&#34;project-p nhpm&#34;&gt;
+                产品上线后，对10位用户和1位专家进行&lt;a href=&#34;https://shimo.im/sheet/18bGFnXeTRAVZUux/UKuPP/&#34; title=&#34;点击查看专家的回复频率&#34; target=&#34;_blank&#34; &gt;可用性测试&lt;/a&gt;，其中有关「咨询」的发现：&lt;br&gt;
+                1. 专家索要健康档案时，用户不知道健康档案的存在&lt;br&gt;
+                2. 新用户进入APP显示咨询的空白页，不知如何找专家，给人不专业的感觉&lt;br&gt;
+                故&lt;br&gt;
+            &lt;/p&gt;
+            &lt;div class=&#34;project-title2&#34;&gt;健康档案发送时机&lt;/div&gt;
+            &lt;p class=&#34;project-p nppm&#34;&gt;
+                从在沟通过程中发送档案更改为填写症状后，沟通前发送，用户无须对「健康档案」感到陌生而无头寻找，且减少专家等待时间&lt;br&gt;
+            &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CFile.png&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:输入症状&amp;nbsp;&amp;nbsp;中:健康档案&amp;nbsp;&amp;nbsp;右:进行沟通&amp;nbsp;&amp;nbsp;(用户端)
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm centerposition&#34;&gt;
+            &lt;video muted class=&#34;videofix&#34; src=&#34;https://yuting.casa/image/CAll.mp4&#34; controls autoplay loop&gt;&lt;/video&gt;
+        &lt;/div&gt; 
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;增加专业内容&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    设置「联系人」为首页，并添加更多专业内容：找专家、圈子、问答、&lt;a href=&#34;https://yuting.casa/post/this-is-a-very-long-title&#34; title=&#34;点击查看「健康测试」案例&#34;&gt;健康测试（案例已在本网站）&lt;/a&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bgw nposition ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;我的思考&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                针对提高「咨询」交流效率的更多解决方案，随着APP的发展，可积累、购买有关疾病名称、病症、病因等数据，交流中「高亮病症」，加快专家对用户的认识与回顾；「高亮疾病名」，用户可点击查看相关内容，专家无须重复输入普及性内容。
+                &lt;/p&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                我的成长：&lt;br&gt;
+                &amp;middot; 在资源匮乏的情况下，寻找到更多途径获取，需求分级、设计分级所需判断依据，还原使用者“面貌”。&lt;br&gt;
+                &lt;br&gt;
+                &amp;middot; 在从0到1.1的产品规划、设计与流程中，通过与UI设计师、开发工程师，专家、用户的充分合作与沟通，学会如何取舍需求与交互。&lt;br&gt;
+                &lt;br&gt;
+                &amp;middot; 自己还需提高全局观与商业观。比如，挖掘公司的实际状况和背景，协助老板确立项目不同时期的不同目标。&lt;br&gt;
+                &lt;div class=&#34;pstext&#34;&gt;（背后故事：我的老板把平台定义为医疗咨询，而总公司定义为电商，咨询目的是给公司健康商品引流，目标不一致导致APP大改版）&lt;/div&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+&lt;/article&gt;
 </description>
       
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://yuting.casa/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>颈椎大作战</title>
+      <link>https://yuting.casa/post/english-preview/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://yuting.casa/post/creating-a-new-theme/</guid>
+      <guid>https://yuting.casa/post/english-preview/</guid>
       
-        <description>&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
-&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;
-&lt;p&gt;In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added to explain a point. When I show updates to a file, the &amp;ldquo;:wq&amp;rdquo; on the last line means to save the file.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s an example:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;## this is a comment
-$ echo this is a command
-this is a command
+        <description>&lt;div class=&#34;allcontent bgw&#34;&gt;
+    &lt;section class=&#34;maincolor centerposition&#34;&gt;
+        &lt;div class=&#34;titleposition half&#34;&gt;
+            &lt;h class=&#34;project-name&#34;&gt;颈椎大作战&lt;/h&gt;
+            &lt;p class=&#34;project-background&#34;&gt;APP核心功能开发进入尾声，开始考虑导流问题。微信小程序是项目导流方式之一。先通过小程序积累用户，
+                再引导用户下载APP，并获取用户部分信息。切入方式是为单个“热门病症”制作小程序。&lt;/p&gt;
+            &lt;p class=&#34;project-background&#34;&gt;根据微医的数据显示，颈椎话题热度较高，用户群体大，且治疗方式普遍相对简单，内容好把握，问题长期存在，停止治疗又会产生，用户具有持续性，坚持一段时间，用户能有明显感受，反馈度好。故我的切入点是：帮助颈椎不适的人恢复颈椎健康&lt;/p&gt;
+        &lt;/div&gt;        
+    &lt;/section&gt;
 
-## edit the file
-$vi foo.md
-+++
-date = &amp;quot;2014-09-28&amp;quot;
-title = &amp;quot;creating a new theme&amp;quot;
-+++
+    &lt;section class=&#34;bglb&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-HMW&#34;&gt;如何吸引和留存用户？&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;a href=&#34;#Neck&#34; title=&#34;点击查看解决方案&#34;&gt;解决方案展示&lt;/a&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
 
-bah and humbug
-:wq
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;Solution&#34;&gt;1 解决用户痛点&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;难以坚持运动&lt;/b&gt;&lt;br&gt;
+                &amp;middot; 每天打卡奖励奖金&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;②&lt;br&gt;
+                &amp;middot; 建立团队模式，相互督促&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;nbsp;③&lt;br&gt;
+                &lt;br&gt;
+                &lt;b&gt;姿势不标准&lt;/b&gt;&lt;br&gt;
+                &amp;middot; 提供颈椎运动视频&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;①&lt;br&gt;
+                &amp;middot; 提供免费专家纠正咨询服务&amp;emsp;&amp;emsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;④&lt;br&gt;
+                &lt;div class=&#34;photoposition&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/N1card.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+            &lt;p class=&#34;project-p pstext&#34;&gt;
+                ① 视频：次要信息。促进用户打卡坚持为主，当其需要动作正确性时观看视频&lt;br&gt;
+                ② 打卡：每天8个任务，促进用户每天每隔一小时运动颈椎
+            &lt;/p&gt;
+    &lt;/section&gt;
 
-## show it
-$ cat foo.md
-+++
-date = &amp;quot;2014-09-28&amp;quot;
-title = &amp;quot;creating a new theme&amp;quot;
-+++
+    &lt;section class=&#34;bglb&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34;&gt;2 运营技巧&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                增加小程序的用户量、留存率，引导用户下载使用APP：&lt;br&gt;
+                &amp;middot; 测试题分享，引导用户做颈椎运动&lt;br&gt;
+                &amp;middot; 提供专家免费指导动作、咨询相关健康问题，但需在APP上实现交流&lt;br&gt;
+                &amp;middot; 奖金只能在APP上提现&lt;br&gt;
+                &lt;div class=&#34;photoposition&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/N1sell.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+    &lt;/section&gt;
 
-bah and humbug
-$
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;skins&#34;&gt;Skins&lt;/h3&gt;
-&lt;p&gt;Skins are the files responsible for the look and feel of your site. It’s the CSS that controls colors and fonts, it’s the Javascript that determines actions and reactions. It’s also the rules that Hugo uses to transform your content into the HTML that the site will serve to visitors.&lt;/p&gt;
-&lt;p&gt;You have two ways to create a skin. The simplest way is to create it in the &lt;code&gt;layouts/&lt;/code&gt; directory. If you do, then you don’t have to worry about configuring Hugo to recognize it. The first place that Hugo will look for rules and files is in the &lt;code&gt;layouts/&lt;/code&gt; directory so it will always find the skin.&lt;/p&gt;
-&lt;p&gt;Your second choice is to create it in a sub-directory of the &lt;code&gt;themes/&lt;/code&gt; directory. If you do, then you must always tell Hugo where to search for the skin. It’s extra work, though, so why bother with it?&lt;/p&gt;
-&lt;p&gt;The difference between creating a skin in &lt;code&gt;layouts/&lt;/code&gt; and creating it in &lt;code&gt;themes/&lt;/code&gt; is very subtle. A skin in &lt;code&gt;layouts/&lt;/code&gt; can’t be customized without updating the templates and static files that it is built from. A skin created in &lt;code&gt;themes/&lt;/code&gt;, on the other hand, can be and that makes it easier for other people to use it.&lt;/p&gt;
-&lt;p&gt;The rest of this tutorial will call a skin created in the &lt;code&gt;themes/&lt;/code&gt; directory a theme.&lt;/p&gt;
-&lt;p&gt;Note that you can use this tutorial to create a skin in the &lt;code&gt;layouts/&lt;/code&gt; directory if you wish to. The main difference will be that you won’t need to update the site’s configuration file to use a theme.&lt;/p&gt;
-&lt;h3 id=&#34;the-home-page&#34;&gt;The Home Page&lt;/h3&gt;
-&lt;p&gt;The home page, or landing page, is the first page that many visitors to a site see. It is the index.html file in the root directory of the web site. Since Hugo writes files to the public/ directory, our home page is public/index.html.&lt;/p&gt;
-&lt;h3 id=&#34;site-configuration-file&#34;&gt;Site Configuration File&lt;/h3&gt;
-&lt;p&gt;When Hugo runs, it looks for a configuration file that contains settings that override default values for the entire site. The file can use TOML, YAML, or JSON. I prefer to use TOML for my configuration files. If you prefer to use JSON or YAML, you’ll need to translate my examples. You’ll also need to change the name of the file since Hugo uses the extension to determine how to process it.&lt;/p&gt;
-&lt;p&gt;Hugo translates Markdown files into HTML. By default, Hugo expects to find Markdown files in your &lt;code&gt;content/&lt;/code&gt; directory and template files in your &lt;code&gt;themes/&lt;/code&gt; directory. It will create HTML files in your &lt;code&gt;public/&lt;/code&gt; directory. You can change this by specifying alternate locations in the configuration file.&lt;/p&gt;
-&lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
-&lt;p&gt;Content is stored in text files that contain two sections. The first section is the “front matter,” which is the meta-information on the content. The second section contains Markdown that will be converted to HTML.&lt;/p&gt;
-&lt;h4 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h4&gt;
-&lt;p&gt;The front matter is information about the content. Like the configuration file, it can be written in TOML, YAML, or JSON. Unlike the configuration file, Hugo doesn’t use the file’s extension to know the format. It looks for markers to signal the type. TOML is surrounded by “&lt;code&gt;+++&lt;/code&gt;”, YAML by “&lt;code&gt;---&lt;/code&gt;”, and JSON is enclosed in curly braces. I prefer to use TOML, so you’ll need to translate my examples if you prefer YAML or JSON.&lt;/p&gt;
-&lt;p&gt;The information in the front matter is passed into the template before the content is rendered into HTML.&lt;/p&gt;
-&lt;h4 id=&#34;markdown&#34;&gt;Markdown&lt;/h4&gt;
-&lt;p&gt;Content is written in Markdown which makes it easier to create the content. Hugo runs the content through a Markdown engine to create the HTML which will be written to the output file.&lt;/p&gt;
-&lt;h3 id=&#34;template-files&#34;&gt;Template Files&lt;/h3&gt;
-&lt;p&gt;Hugo uses template files to render content into HTML. Template files are a bridge between the content and presentation. Rules in the template define what content is published, where it&amp;rsquo;s published to, and how it will rendered to the HTML file. The template guides the presentation by specifying the style to use.&lt;/p&gt;
-&lt;p&gt;There are three types of templates: single, list, and partial. Each type takes a bit of content as input and transforms it based on the commands in the template.&lt;/p&gt;
-&lt;p&gt;Hugo uses its knowledge of the content to find the template file used to render the content. If it can’t find a template that is an exact match for the content, it will shift up a level and search from there. It will continue to do so until it finds a matching template or runs out of templates to try. If it can’t find a template, it will use the default template for the site.&lt;/p&gt;
-&lt;p&gt;Please note that you can use the front matter to influence Hugo’s choice of templates.&lt;/p&gt;
-&lt;h4 id=&#34;single-template&#34;&gt;Single Template&lt;/h4&gt;
-&lt;p&gt;A single template is used to render a single piece of content. For example, an article or post would be a single piece of content and use a single template.&lt;/p&gt;
-&lt;h4 id=&#34;list-template&#34;&gt;List Template&lt;/h4&gt;
-&lt;p&gt;A list template renders a group of related content. That could be a summary of recent postings or all articles in a category. List templates can contain multiple groups.&lt;/p&gt;
-&lt;p&gt;The homepage template is a special type of list template. Hugo assumes that the home page of your site will act as the portal for the rest of the content in the site.&lt;/p&gt;
-&lt;h4 id=&#34;partial-template&#34;&gt;Partial Template&lt;/h4&gt;
-&lt;p&gt;A partial template is a template that can be included in other templates. Partial templates must be called using the “partial” template command. They are very handy for rolling up common behavior. For example, your site may have a banner that all pages use. Instead of copying the text of the banner into every single and list template, you could create a partial with the banner in it. That way if you decide to change the banner, you only have to change the partial template.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s use Hugo to create a new web site. I&amp;rsquo;m a Mac user, so I&amp;rsquo;ll create mine in my home directory, in the Sites folder. If you&amp;rsquo;re using Linux, you might have to create the folder first.&lt;/p&gt;
-&lt;p&gt;The &amp;ldquo;new site&amp;rdquo; command will create a skeleton of a site. It will give you the basic directory structure and a useable configuration file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ hugo new site ~/Sites/zafta
-$ cd ~/Sites/zafta
-$ ls -l
-total 8
-drwxr-xr-x  7 quoha  staff  238 Sep 29 16:49 .
-drwxr-xr-x  3 quoha  staff  102 Sep 29 16:49 ..
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
--rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
-$
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Take a look in the content/ directory to confirm that it is empty.&lt;/p&gt;
-&lt;p&gt;The other directories (archetypes/, layouts/, and static/) are used when customizing a theme. That&amp;rsquo;s a topic for a different tutorial, so please ignore them for now.&lt;/p&gt;
-&lt;h3 id=&#34;generate-the-html-for-the-new-site&#34;&gt;Generate the HTML For the New Site&lt;/h3&gt;
-&lt;p&gt;Running the &lt;code&gt;hugo&lt;/code&gt; command with no options will read all the available content and generate the HTML files. It will also copy all static files (that&amp;rsquo;s everything that&amp;rsquo;s not content). Since we have an empty site, it won&amp;rsquo;t do much, but it will do it very quickly.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ hugo --verbose
-INFO: 2014/09/29 Using config file: config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-WARN: 2014/09/29 Unable to locate layout: [404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 2 ms
-$
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The &amp;ldquo;&lt;code&gt;--verbose&lt;/code&gt;&amp;rdquo; flag gives extra information that will be helpful when we build the template. Every line of the output that starts with &amp;ldquo;INFO:&amp;rdquo; or &amp;ldquo;WARN:&amp;rdquo; is present because we used that flag. The lines that start with &amp;ldquo;WARN:&amp;rdquo; are warning messages. We&amp;rsquo;ll go over them later.&lt;/p&gt;
-&lt;p&gt;We can verify that the command worked by looking at the directory again.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ ls -l
-total 8
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
--rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
-drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
-$
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;See that new public/ directory? Hugo placed all generated content there. When you&amp;rsquo;re ready to publish your web site, that&amp;rsquo;s the place to start. For now, though, let&amp;rsquo;s just confirm that we have what we&amp;rsquo;d expect from a site with no content.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ ls -l public
-total 16
--rw-r--r--  1 quoha  staff  416 Sep 29 17:02 index.xml
--rw-r--r--  1 quoha  staff  262 Sep 29 17:02 sitemap.xml
-$
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Hugo created two XML files, which is standard, but there are no HTML files.&lt;/p&gt;
-&lt;h3 id=&#34;test-the-new-site&#34;&gt;Test the New Site&lt;/h3&gt;
-&lt;p&gt;Verify that you can run the built-in web server. It will dramatically shorten your development cycle if you do. Start it by running the &amp;ldquo;server&amp;rdquo; command. If it is successful, you will see output similar to the following:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ hugo server --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-WARN: 2014/09/29 Unable to locate layout: [404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 2 ms
-Serving pages from /Users/quoha/Sites/zafta/public
-Web Server is available at http://localhost:1313
-Press Ctrl+C to stop
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Connect to the listed URL (it&amp;rsquo;s on the line that starts with &amp;ldquo;Web Server&amp;rdquo;). If everything is working correctly, you should get a page that shows the following:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;index.xml
-sitemap.xml
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;That&amp;rsquo;s a listing of your public/ directory. Hugo didn&amp;rsquo;t create a home page because our site has no content. When there&amp;rsquo;s no index.html file in a directory, the server lists the files in the directory, which is what you should see in your browser.&lt;/p&gt;
-&lt;p&gt;Let’s go back and look at those warnings again.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-WARN: 2014/09/29 Unable to locate layout: [404.html]
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;That second warning is easier to explain. We haven’t created a template to be used to generate “page not found errors.” The 404 message is a topic for a separate tutorial.&lt;/p&gt;
-&lt;p&gt;Now for the first warning. It is for the home page. You can tell because the first layout that it looked for was “index.html.” That’s only used by the home page.&lt;/p&gt;
-&lt;p&gt;I like that the verbose flag causes Hugo to list the files that it&amp;rsquo;s searching for. For the home page, they are index.html, _default/list.html, and _default/single.html. There are some rules that we&amp;rsquo;ll cover later that explain the names and paths. For now, just remember that Hugo couldn&amp;rsquo;t find a template for the home page and it told you so.&lt;/p&gt;
-&lt;p&gt;At this point, you&amp;rsquo;ve got a working installation and site that we can build upon. All that’s left is to add some content and a theme to display it.&lt;/p&gt;
-&lt;h3 id=&#34;create-a-skeleton&#34;&gt;Create a Skeleton&lt;/h3&gt;
-&lt;p&gt;Use the hugo &amp;ldquo;new&amp;rdquo; command to create the skeleton of a theme. This creates the directory structure and places empty files for you to fill out.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ hugo new theme zafta
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;Redesign&#34;&gt;用户与运营的平衡&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                老板的反馈：&lt;br&gt;
+                &amp;middot; 是否真的解决了用户的问题&lt;br&gt;
+                &amp;middot; 娱乐性大于本质，需要简化&lt;br&gt;
+                &lt;br&gt;
+                确实，只有解决了用户的需求，才能更好地吸引留存用户&lt;br&gt;
+                用户的重点应是运动而不是打卡，操作过程复杂，最终使用“用户体验地图”理清思路，有条理地进行优化&lt;br&gt;
+                &lt;div class=&#34;photoposition&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/Nexperience.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+    &lt;/section&gt;
 
-$ ls -l
-total 8
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
--rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
-drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
-drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes
+    &lt;section class=&#34;bglb&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34;&gt;迭代设计&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                
+                &amp;middot; 视频一级页面，直接激励用户运动&lt;br&gt;
+                &amp;middot; 打卡奖励激励用户坚持&lt;br&gt;
+                &amp;middot; 榜单激励用户互相比拼、提醒&lt;br&gt;
+                &lt;div class=&#34;photoposition&#34; style=&#34;width: 90%;&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/N2.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34; id=&#34;Neck&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+    &lt;/section&gt;
 
-$ find themes -type f | xargs ls -l
--rw-r--r--  1 quoha  staff  1081 Sep 29 17:31 themes/zafta/LICENSE.md
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/archetypes/default.md
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/index.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
--rw-r--r--  1 quoha  staff    93 Sep 29 17:31 themes/zafta/theme.toml
-$
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The skeleton includes templates (the files ending in .html), license file, a description of your theme (the theme.toml file), and an empty archetype.&lt;/p&gt;
-&lt;p&gt;Please take a minute to fill out the theme.toml and LICENSE.md files. They&amp;rsquo;re optional, but if you&amp;rsquo;re going to be distributing your theme, it tells the world who to praise (or blame). It&amp;rsquo;s also nice to declare the license so that people will know how they can use the theme.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/theme.toml
-author = &amp;quot;michael d henderson&amp;quot;
-description = &amp;quot;a minimal working template&amp;quot;
-license = &amp;quot;MIT&amp;quot;
-name = &amp;quot;zafta&amp;quot;
-source_repo = &amp;quot;&amp;quot;
-tags = [&amp;quot;tags&amp;quot;, &amp;quot;categories&amp;quot;]
-:wq
-
-## also edit themes/zafta/LICENSE.md and change
-## the bit that says &amp;quot;YOUR_NAME_HERE&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Note that the the skeleton&amp;rsquo;s template files are empty. Don&amp;rsquo;t worry, we&amp;rsquo;ll be changing that shortly.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ find themes/zafta -name &#39;*.html&#39; | xargs ls -l
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/index.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
-$
-&lt;/code&gt;&lt;/pre&gt;</description>
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;Think&#34;&gt;我的思考&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &amp;middot; 要用慈母的方式激励用户，而不是用严父的方式强迫用户&lt;br&gt;
+                &amp;middot; 团队激励确实有天然的分享、督促特性，但功能相对复杂，需要根据平台的内容和属性进行取舍
+            &lt;/p&gt;
+    &lt;/section&gt;
+&lt;/div&gt; 
+</description>
       
     </item>
     
     <item>
-      <title>This is a very long title This is a very long title This is a very long title This is a very long title This is a very long title</title>
+      <title>全家小程序</title>
+      <link>https://yuting.casa/post/math-preview/</link>
+      <pubDate>Mon, 25 May 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://yuting.casa/post/math-preview/</guid>
+      
+        <description>&lt;div class=&#34;allcontent bgw&#34;&gt;
+    &lt;section class=&#34;bgcolorful&#34;&gt;
+        &lt;div class=&#34;titleposition&#34;&gt;
+            &lt;div class=&#34;project-name&#34;&gt;全家小程序 改版&lt;/div&gt;
+            &lt;p class=&#34;project-background&#34;&gt;提供会员快速积分付费，参与运营活动的平台&lt;/p&gt;
+        &lt;/div&gt;        
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;BG&#34;&gt;堆砌功能的界面&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                全家便利店遍布上海，从门店的位置、装修到服务、食物都独具匠心，但全家的小程序似乎只是把越来越多的功能堆砌起来，
+                用户体验比较差，所以我的目标是让小程序更加易用美观。
+                
+                &lt;div class=&#34;photoposition&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/Fcontract.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bglb&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-HMW&#34;&gt;如何优化用户使用体验？&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;R&#34;&gt;小程序的用途是什么&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;官方&lt;/b&gt;&lt;br&gt;
+                通过官方发布的新闻，可见小程序目的：&lt;br&gt;
+                &amp;middot; 增加用户粘性：注册会员渠道、提醒用户有积分、储存点标&lt;br&gt;
+                &amp;middot; 提高店员收银效率
+                &lt;div class=&#34;photoposition&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/Fnewold.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+            
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;小程序功能&lt;/b&gt;&lt;br&gt;
+                &amp;middot; 积分付费、优惠活动、外卖、商城、吉祥物&lt;br&gt;
+                &amp;middot; 轮播图：关于手游的通知
+            &lt;/p&gt;
+
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;APP功能&lt;/b&gt;&lt;br&gt;
+                &amp;middot; 主要功能：会员积分、活动、商城&lt;br&gt;
+                &amp;middot; 活动：与美食商家合作，很多优惠与活动仅付费会员使用
+            &lt;/p&gt;
+            &lt;br&gt;
+            &lt;span class=&#34;emphasize&#34;&gt;&lt;b&gt;为什么全家有了APP还需要小程序?&lt;/b&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bglb&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;Spot&#34;&gt;小程序与APP的不同使用场景&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                通过桌面调研、
+                &lt;a href=&#34;https://shimo.im/sheets/1d3aVW5mOPf2Gaqg/MODOC/&#34; title=&#34;点击查看访谈记录&#34; target=&#34;_blank&#34;&gt;
+                    用户访谈及用户使用小程序测试
+                &lt;/a&gt;，
+                深入了解小程序的功能，用户使用习惯，洞察，分析两者不同使用场景。
+            &lt;/p&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;事实&lt;/b&gt;&lt;br&gt;
+                &amp;middot; 会员填写较多信息，较为繁琐，且需要收银员帮忙操作&lt;br&gt;
+                &amp;middot; 小程序积分付款过程繁杂，积分优惠力度小，2/3的调研对象表示不再积分，呈现中度用户转向浅度用户&lt;br&gt;
+                &amp;middot; 大多数用户主要使用小程序“扫码积分”“查看积分”；使用APP“扫码积分”“查看积分”“商城”
+            &lt;/p&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;洞察&lt;/b&gt;&lt;br&gt;
+                &amp;middot; 小程序和APP使用场景区分：&lt;br&gt;
+                小程序：实体店收银场景，具有便捷性&lt;br&gt;
+                APP：偏重于线上购物等场景&lt;br&gt;
+                &lt;br&gt;
+                &amp;middot; 目标用户区分：&lt;br&gt;
+                小程序：非会员、普通会员、付费会员&lt;br&gt;
+                APP：付费会员&lt;br&gt;
+                &lt;br&gt;
+                &amp;middot; 小程序定位：&lt;br&gt;
+                主要帮助用户快速付款积分，提高用户使用小程序欲望，提高收银效率&lt;br&gt;
+                增强用户忠诚度（加强用户会员积分意识等）
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;C&#34;&gt;验证洞察&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                调研同类竞品、相似场景小程序，洞察基本正确&lt;br&gt;
+                &lt;br&gt;
+                同类竞品：&lt;br&gt;
+                &amp;middot; 用户给微信权限，则自动创建为会员&lt;br&gt;
+                &amp;middot; 会员码直接露出&lt;br&gt;
+                &amp;middot; 功能相对全家更佳顺畅完整，界面风格更简洁美观&lt;br&gt;
+                &amp;middot; 不同功能：扫码购、预约购买等&lt;br&gt;
+                &lt;div class=&#34;photoposition&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/Fother.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+            &lt;br&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                相似场景：&lt;br&gt;
+                &amp;middot; 主要功能突出&lt;br&gt;
+                &amp;middot; 优惠活动多
+                &lt;div class=&#34;photoposition&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/Fother2.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bglb&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;Solution&#34;&gt;设计&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;设计目标&lt;/b&gt;&lt;br&gt;
+                1.优化会员积分付款流程、界面&lt;br&gt;
+                2.增加用户粘性
+            &lt;/p&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;1.优化小程序使用流程&lt;/b&gt;&lt;br&gt;
+                根据调研，用户使用小程序注册和积分流程需简化：&lt;br&gt;
+                &amp;middot; 新用户注册：授权 — 
+                &lt;span class=&#34;strikeout&#34;&gt;点会员 — 注册 — 填写验证码、性别、生日 — 提交&lt;/span&gt;&lt;br&gt;
+                &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;授权即成会员&lt;br&gt;
+                &amp;middot; 老用户积分：&lt;span class=&#34;strikeout&#34;&gt;下拉微信打开小程序 — 打开会员码&lt;/span&gt; — 展示会员码 — 点击微信支付 — 完成支付&lt;br&gt;
+                &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;扫一扫二维码&lt;br&gt;
+                故：门店摆放小程序二维码，小程序首页会员码直接露出
+                &lt;div class=&#34;photoposition&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/Ffinish.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;2.增加用户粘性&lt;/b&gt;&lt;br&gt;
+                原小程序功能分类：&lt;br&gt;
+                A类 - 积分付费：会员码、积分、&lt;span class=&#34;strikeout&#34;&gt;一键续费、账单、卡包&lt;/span&gt;&amp;emsp;&lt;span class=&#34;emphasize&#34;&gt;放入二级页面&lt;/span&gt;&lt;br&gt;
+                B类 - 增加用户粘性：惠生活（领券）、拼团、礼品卡&lt;br&gt;
+                C类 - 辅助功能：会员商城、外卖、轮播图、&lt;span class=&#34;strikeout&#34;&gt;吉祥物、定位&lt;/span&gt;&amp;emsp;&lt;span class=&#34;emphasize&#34;&gt;删除、放入外卖二级页面&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+                先培养用户使用小程序，做好基本功能，用户常用功能 — 积分支付，再考虑突出能增加用户粘性的功能，特别是最能吸引用户的领券功能。
+                当用户习惯了使用小程序，更多地使用优惠后，再考虑露出「一键续费、账单、卡包」。
+            &lt;/p&gt;
+            
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;Think&#34;&gt;我的思考&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &amp;middot; 学会分析设计产品的背后整个品牌产品，清楚区分其不同的商业目的、使用场景，确定对设计的影响&lt;br&gt;
+                &amp;middot; 商业运营需求固然重要，但要从现有产品实际情况出发，慢慢改善，而不是一步堆砌，无人使用&lt;br&gt;
+                &amp;middot; 相对于费尽心思使用各种调研方法，直接埋点获取数据能大大提高效率和正确性
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+&lt;/div&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>健康测试</title>
       <link>https://yuting.casa/post/this-is-a-very-long-title/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>https://yuting.casa/post/this-is-a-very-long-title/</guid>
       
-        <description>&lt;p&gt;This is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long title&lt;/p&gt;
+        <description>&lt;div class=&#34;allcontent bgw&#34;&gt;
+    &lt;section class=&#34;bgb&#34; style=&#34;background-color:#73BE36;&#34;&gt;
+        &lt;div class=&#34;titleposition&#34;&gt;
+            &lt;div class=&#34;project-name&#34;&gt;健康测试&lt;/div&gt;
+            &lt;p class=&#34;project-background&#34;&gt;前端做健康测试，后台制作测试题&lt;/p&gt;
+        &lt;/div&gt;        
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;BG&#34;&gt;背景&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;收到健康测试需求&lt;/b&gt;&lt;br&gt;
+                为增加APP丰富性和专业性，需增加健康测试功能，且由于公司爬虫等渠道无法获取测试题答案逻辑，需专家人工录入后台系统。&lt;br&gt;
+                &lt;br&gt;
+                
+                &lt;b&gt;用户为什么要做健康测试？&lt;/b&gt;&lt;br&gt;
+                通过31份&lt;a href=&#34;http://www.wenjuan.com/r/n/bYzI32Q?vcode=c445ac8c291d91a6e6e21dd574e1ab8e&#34; title=&#34;点击查看问卷数据&#34; target=&#34;_blank&#34;&gt;问卷调查&lt;/a&gt;显示，用户做测试主要目的是关注自己的健康状态，排除患某些疾病可能性&lt;br&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bglb&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;B&#34;&gt;前端设计&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &lt;b&gt;1 根据任务流程判断每步设计点&lt;/b&gt;&lt;br&gt;
+                测试疾病 / 随便看看：让用户快速选择到心仪测试（热门、分类、搜索）&lt;br&gt;
+                测试：做题过程简单快捷&lt;br&gt;
+                测试结果：不同测试结果，推送不同内容&lt;br&gt;
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;好：尝试其他测试 / 分享 / 重测&lt;br&gt;
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;坏：咨询专家 / 分享 / 重测&lt;br&gt;
+                &lt;br&gt;
+                &lt;b&gt;2 测试题调研&lt;/b&gt;&lt;br&gt;
+                收集大量现有测试题，筛选并分类&lt;br&gt;
+                &lt;br&gt;
+                身体指标：体脂率、代谢率、标准身材比例计算、有氧运动心率...&lt;br&gt;
+                健康：肾健康、头发健康、牙齿健康、体适能、血管老化...&lt;br&gt;
+                疾病自测：慢性胃炎、女性乳房健康、睡眠障碍、色盲色弱、社交恐惧症...&lt;br&gt;
+                趣味：玻璃心、焦虑感、读心能力...&lt;br&gt;
+                其他：左右脑使用报告、旺财力、几级老烟枪...&lt;br&gt;
+                &lt;br&gt;
+                &lt;b&gt;3 设计&lt;/b&gt;&lt;br&gt;
+                &lt;div class=&#34;photoposition&#34; style=&#34;width: 90%;&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/Tphone.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;A&#34;&gt;后台设计&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                1 总结前端题库&lt;br&gt;
+                题目类型：单项选择题、填空题&lt;br&gt;
+                答案逻辑：计分、公式、综合每题答案、选择最多、随机答案&lt;br&gt;
+                &lt;br&gt;
+                2 使用情景&lt;br&gt;
+                登录 — 填写测试基本信息 — 选择题型（选择、填空）— 完善题目 — 选择逻辑模式 — 完善逻辑模式 — 发布&lt;br&gt;
+                &lt;br&gt;
+                3 设计&lt;br&gt;
+                &lt;br&gt;
+                首页&lt;br&gt;
+                &lt;div class=&#34;photoposition&#34; style=&#34;width: 80%;&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/Tmac.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+                &lt;br&gt;
+                &lt;p class=&#34;project-p&#34;&gt;测试题基本信息&lt;/p&gt;
+                &lt;div class=&#34;photoposition&#34; style=&#34;width: 80%;&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/Tcontract.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem;&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+                &lt;br&gt;
+                &lt;p class=&#34;project-p&#34;&gt;制作测试题目&lt;/p&gt;
+                &lt;div class=&#34;photoposition&#34; style=&#34;width:80%;&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/TQ.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+                &lt;br&gt;
+                &lt;p class=&#34;project-p&#34;&gt;测试答案逻辑&lt;/p&gt;
+                &lt;div class=&#34;photoposition&#34; style=&#34;width: 80%;&#34;&gt;
+                    &lt;figure&gt;
+                        &lt;img src=&#34;https://yuting.casa/image/TA.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
+                    &lt;/figure&gt;
+                &lt;/div&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bglb&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+            &lt;div class=&#34;project-title&#34; id=&#34;Think&#34;&gt;我的思考&lt;/div&gt;
+            &lt;p class=&#34;project-p&#34;&gt;
+                &amp;middot; 相比于前端写每个测试题，开发测试题制作后台性价比更低，因为测试题的体量不是非常大，但专家有制作个性化问答需求，后台则是一举两得。&lt;br&gt;
+                &amp;middot; 虽然由于平台初期内容少，迫于无奈用健康测试补充，但经过我的调研，测试题的实际吸引力低，没有太大存在价值。
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;bgw&#34;&gt;
+        &lt;div class=&#34;textposition&#34;&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+&lt;/div&gt; 
 </description>
       
     </item>
@@ -245,48 +659,27 @@ $
       
       <guid>https://yuting.casa/about/</guid>
       
-        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
-&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;div style=&#34;margin:0 0 0 0em; padding: 0 0 0 0;&#34;&gt;
+    &lt;div style=&#34;right: 0; width=200%; position: relative; margin-top: 0rem;&#34;&gt;
+        &lt;img src=&#34;https://yuting.casa/image/self.jpg&#34; width=200%;/&gt;
+    &lt;/div&gt;
+
+&lt;div style=&#34;width:100%&#34;&gt;
+    &lt;div style=&#34;width: 50%; position: relative; left: 0; margin: 3em auto 0 6em;&#34;&gt;
+        &lt;div style=&#34;font-weight: 500; font-size: 1.8rem; margin-bottom: 0.6em;&#34;&gt;我是雨婷,&lt;/div&gt;
+        &lt;div style=&#34;font-size: 0.9em;&#34;&gt;
+            毕业于南京林业大学工业设计专业。曾在上海浪尖实习工业设计，设计了多款工业产品；后进入上海易恒集团成为一名产品经理兼交互设计师，从0到1.1参与建设健康咨询产品。&lt;br&gt;
+            &lt;br&gt;
+            从工业产品到互联网软件，都是我喜欢做的事情 ─ 帮助人们解决问题。相对于工业产品的巨额开模制造成本，软件给予了更多普通人改变世界的机会，所以我投身于软件，继续为人们解决问题。&lt;br&gt;
+            &lt;br&gt;
+            生活中，我喜欢&lt;a href=&#34;https://unsplash.com/@yutinghuhu&#34; title=&#34;Unsplash&#34; target=&#34;_blank&#34;&gt;旅行摄影&lt;/a&gt;、&lt;a href=&#34;#&#34; onClick=&#34;document.getElementById(&#39;words&#39;).style.display=&#39;block&#39;; return false;&#34;&gt;运动&lt;/a&gt;，是个音乐迷。
+            &lt;div id=&#34;words&#34; style=&#34;display:none; font-size:0.2rem;&#34;&gt;在Nike Run Club添加YUTING LIU和我成为运动好友呀～ &amp;#128512&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;  
+
+&lt;/div&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>简历</title>
-      <link>https://yuting.casa/resume/</link>
-      <pubDate>Fri, 20 Mar 2020 21:38:52 +0800</pubDate>
-      
-      <guid>https://yuting.casa/resume/</guid>
-      
-        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
-&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Medical Consultant</title>
-      <link>https://yuting.casa/posts/untitled-1/</link>
-      <pubDate>Sun, 05 Apr 2020 15:43:48 +0800</pubDate>
-      
-      <guid>https://yuting.casa/posts/untitled-1/</guid>
-      
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
       
     </item>
     
