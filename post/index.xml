@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>简易康</title>
+      <title>如何提高医患交流效率</title>
       <link>https://yuting.casa/post/intro/</link>
       <pubDate>Wed, 15 Apr 2020 18:28:28 +0200</pubDate>
       
@@ -21,30 +21,30 @@
     </item>
     
     <item>
-      <title>颈椎大作战</title>
+      <title>如何吸引和留存用户</title>
       <link>https://yuting.casa/post/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>https://yuting.casa/post/english-preview/</guid>
-      <description>颈椎大作战 APP核心功能开发进入尾声，开始考虑导流问题。微信小程序是项目导流方式之一。先通过小程序积累用户， 再引导用户下载APP，并获取用户</description>
+      <description>颈椎大作战 APP核心功能开发进入尾声，开始考虑引入用户，微信小程序是方式之一。先通过小程序积累用户，再引导用户下载APP，并获取用户部分信息</description>
     </item>
     
     <item>
-      <title>全家小程序</title>
+      <title>如何优化「全家」使用体验</title>
       <link>https://yuting.casa/post/math-preview/</link>
       <pubDate>Mon, 25 May 2020 16:01:23 +0800</pubDate>
       
       <guid>https://yuting.casa/post/math-preview/</guid>
-      <description>全家小程序 改版 提供会员快速积分付费，参与运营活动的平台 堆砌功能的界面 全家便利店遍布上海，从门店的位置、装修到服务、食物都独具匠心，但全家的小</description>
+      <description>全家小程序 改版 全家便利店遍布上海，从门店的位置、装修到服务、食物都独具匠心，但全家的小程序似乎只是把越来越多的功能堆砌起来，用户体验比较差，</description>
     </item>
     
     <item>
-      <title>健康测试</title>
+      <title>如何条理化「创建测试题」</title>
       <link>https://yuting.casa/post/this-is-a-very-long-title/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>https://yuting.casa/post/this-is-a-very-long-title/</guid>
-      <description>健康测试 前端做健康测试，后台制作测试题 背景 收到健康测试需求 为增加APP丰富性和专业性，需增加健康测试功能，且由于公司爬虫等渠道无法获取测试题</description>
+      <description>健康测试 为增加APP丰富性和专业性，需增加健康测试功能。由于公司爬虫等渠道无法获取测试题答案逻辑，且每个测试的答案逻辑不同，则需专家人工录入</description>
     </item>
     
   </channel>

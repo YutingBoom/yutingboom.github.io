@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>简易康</title>
+      <title>如何提高医患交流效率</title>
       <link>https://yuting.casa/post/intro/</link>
       <pubDate>Wed, 15 Apr 2020 18:28:28 +0200</pubDate>
       
@@ -31,7 +31,7 @@
     &lt;/section&gt;
     
     &lt;section class=&#34;centerposition&#34;&gt;
-        &lt;img src=&#34;https://yuting.casa/image/CShow.png&#34; /&gt;
+        &lt;img src=&#34;https://yuting.casa/image/CShow.jpg&#34; /&gt;
     &lt;/section&gt;
 
     &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
@@ -49,7 +49,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;pimgm&#34;&gt;
-            &lt;img src=&#34;https://yuting.casa/image/CShow2.png&#34; /&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CShow2.jpg&#34; /&gt;
             &lt;div class=&#34;phototext&#34;&gt;
                 左:描述症状&amp;nbsp;&amp;nbsp;中:沟通交流&amp;nbsp;&amp;nbsp;右:咨询列表&amp;nbsp;&amp;nbsp;(用户端)
             &lt;/div&gt;
@@ -115,7 +115,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;pimgm&#34;&gt;
-            &lt;img src=&#34;https://yuting.casa/image/CVersion1.png&#34; /&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CVersion1.jpg&#34; /&gt;
             &lt;div class=&#34;phototext&#34;&gt;
                 左:常用语&amp;nbsp;&amp;nbsp;中:输入框&amp;nbsp;&amp;nbsp;右:更多功能&amp;nbsp;&amp;nbsp;(专家端)
             &lt;/div&gt;
@@ -140,10 +140,10 @@
             &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;pimgm centerposition&#34;&gt;
-            &lt;img src=&#34;https://yuting.casa/image/CResearch1.png&#34; /&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CResearch1.jpg&#34; /&gt;
         &lt;/div&gt;  
         &lt;div class=&#34;pimgm&#34;&gt;
-            &lt;img src=&#34;https://yuting.casa/image/CVersion2.png&#34; /&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CVersion2.jpg&#34; /&gt;
         &lt;/div&gt;  
         &lt;div class=&#34;centerposition&#34;&gt;
             &lt;div class=&#34;half&#34;&gt;
@@ -159,16 +159,16 @@
             &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;pimgm centerposition&#34;&gt;
-            &lt;img src=&#34;https://yuting.casa/image/CScale.png&#34; /&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CScale.jpg&#34; /&gt;
         &lt;/div&gt; 
         &lt;div class=&#34;pimgm&#34;&gt;
-            &lt;img src=&#34;https://yuting.casa/image/CVersion2user.png&#34; /&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CVersion2user.jpg&#34; /&gt;
             &lt;div class=&#34;phototext&#34;&gt;
                 左:改版前&amp;nbsp;&amp;nbsp;右:改版后&amp;nbsp;&amp;nbsp;(用户端) 
             &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;pimgm&#34;&gt;
-            &lt;img src=&#34;https://yuting.casa/image/CVersion2expert.png&#34; /&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CVersion2expert.jpg&#34; /&gt;
             &lt;div class=&#34;phototext&#34;&gt;
                 左:改版前&amp;nbsp;&amp;nbsp;右:改版后&amp;nbsp;&amp;nbsp;(专家端) 
             &lt;/div&gt;
@@ -192,7 +192,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;pimgm&#34;&gt;
-            &lt;img src=&#34;https://yuting.casa/image/CFile.png&#34; /&gt;
+            &lt;img src=&#34;https://yuting.casa/image/CFile.jpg&#34; /&gt;
             &lt;div class=&#34;phototext&#34;&gt;
                 左:输入症状&amp;nbsp;&amp;nbsp;中:健康档案&amp;nbsp;&amp;nbsp;右:进行沟通&amp;nbsp;&amp;nbsp;(用户端)
             &lt;/div&gt;
@@ -217,8 +217,8 @@
                 &lt;p class=&#34;project-p nhpm&#34;&gt;
                 针对提高「咨询」交流效率的更多解决方案，随着APP的发展，可积累、购买有关疾病名称、病症、病因等数据，交流中「高亮病症」，加快专家对用户的认识与回顾；「高亮疾病名」，用户可点击查看相关内容，专家无须重复输入普及性内容。
                 &lt;/p&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;我的成长&lt;/div&gt;
                 &lt;p class=&#34;project-p nppm&#34;&gt;
-                我的成长：&lt;br&gt;
                 &amp;middot; 在资源匮乏的情况下，寻找到更多途径获取，需求分级、设计分级所需判断依据，还原使用者“面貌”。&lt;br&gt;
                 &lt;br&gt;
                 &amp;middot; 在从0到1.1的产品规划、设计与流程中，通过与UI设计师、开发工程师，专家、用户的充分合作与沟通，学会如何取舍需求与交互。&lt;br&gt;
@@ -235,111 +235,154 @@
     </item>
     
     <item>
-      <title>颈椎大作战</title>
+      <title>如何吸引和留存用户</title>
       <link>https://yuting.casa/post/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>https://yuting.casa/post/english-preview/</guid>
       
-        <description>&lt;div class=&#34;allcontent bgw&#34;&gt;
-    &lt;section class=&#34;maincolor centerposition&#34;&gt;
-        &lt;div class=&#34;titleposition half&#34;&gt;
-            &lt;h class=&#34;project-name&#34;&gt;颈椎大作战&lt;/h&gt;
-            &lt;p class=&#34;project-background&#34;&gt;APP核心功能开发进入尾声，开始考虑导流问题。微信小程序是项目导流方式之一。先通过小程序积累用户，
-                再引导用户下载APP，并获取用户部分信息。切入方式是为单个“热门病症”制作小程序。&lt;/p&gt;
-            &lt;p class=&#34;project-background&#34;&gt;根据微医的数据显示，颈椎话题热度较高，用户群体大，且治疗方式普遍相对简单，内容好把握，问题长期存在，停止治疗又会产生，用户具有持续性，坚持一段时间，用户能有明显感受，反馈度好。故我的切入点是：帮助颈椎不适的人恢复颈椎健康&lt;/p&gt;
-        &lt;/div&gt;        
-    &lt;/section&gt;
-
-    &lt;section class=&#34;bglb&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-HMW&#34;&gt;如何吸引和留存用户？&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;a href=&#34;#Neck&#34; title=&#34;点击查看解决方案&#34;&gt;解决方案展示&lt;/a&gt;
-            &lt;/p&gt;
+        <description>&lt;div class=&#34;aup nobothblank bgw&#34;&gt;
+    &lt;section class=&#34;oneposition namecolor onetextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;h class=&#34;namesize&#34;&gt;颈椎大作战&lt;/h&gt;
+            &lt;p class=&#34;onehpm onesize&#34;&gt;APP核心功能开发进入尾声，开始考虑引入用户，微信小程序是方式之一。先通过小程序积累用户，再引导用户下载APP，并获取用户部分信息。切入方式是为单个“热门病症”制作小程序。&lt;/p&gt;
+            &lt;p class=&#34;oneppm onesize&#34;&gt;根据微医的数据显示，颈椎话题热度较高。其用户群体大，且治疗方式相对简单，内容好把握；问题长期存在，用户具有持续性；坚持运动后用户能有明显感受，反馈度好。故切入点是：帮助颈椎不适的人恢复颈椎健康&lt;/p&gt;
+            &lt;/div&gt;        
         &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;Solution&#34;&gt;1 解决用户痛点&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;难以坚持运动&lt;/b&gt;&lt;br&gt;
-                &amp;middot; 每天打卡奖励奖金&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;②&lt;br&gt;
-                &amp;middot; 建立团队模式，相互督促&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;nbsp;③&lt;br&gt;
-                &lt;br&gt;
-                &lt;b&gt;姿势不标准&lt;/b&gt;&lt;br&gt;
-                &amp;middot; 提供颈椎运动视频&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;①&lt;br&gt;
-                &amp;middot; 提供免费专家纠正咨询服务&amp;emsp;&amp;emsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;④&lt;br&gt;
-                &lt;div class=&#34;photoposition&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/N1card.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
-            &lt;p class=&#34;project-p pstext&#34;&gt;
-                ① 视频：次要信息。促进用户打卡坚持为主，当其需要动作正确性时观看视频&lt;br&gt;
-                ② 打卡：每天8个任务，促进用户每天每隔一小时运动颈椎
-            &lt;/p&gt;
+    &lt;section class=&#34;centerposition&#34;&gt;
+        &lt;img src=&#34;https://yuting.casa/image/NShow.jpg&#34; /&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bglb&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34;&gt;2 运营技巧&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                增加小程序的用户量、留存率，引导用户下载使用APP：&lt;br&gt;
-                &amp;middot; 测试题分享，引导用户做颈椎运动&lt;br&gt;
-                &amp;middot; 提供专家免费指导动作、咨询相关健康问题，但需在APP上实现交流&lt;br&gt;
-                &amp;middot; 奖金只能在APP上提现&lt;br&gt;
-                &lt;div class=&#34;photoposition&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/N1sell.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;我的贡献&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                2018年10月，负责引流项目之一「颈椎大作战」的产品和交互设计。与另外两位产品经理共同为团队提供引流模式，探索方向。探索过程中发现小程序引流方式比较缓慢且耗资，最终项目取消，直接利用总公司和兄弟部门资源，导入用户。
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;Redesign&#34;&gt;用户与运营的平衡&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                老板的反馈：&lt;br&gt;
-                &amp;middot; 是否真的解决了用户的问题&lt;br&gt;
-                &amp;middot; 娱乐性大于本质，需要简化&lt;br&gt;
-                &lt;br&gt;
-                确实，只有解决了用户的需求，才能更好地吸引留存用户&lt;br&gt;
-                用户的重点应是运动而不是打卡，操作过程复杂，最终使用“用户体验地图”理清思路，有条理地进行优化&lt;br&gt;
-                &lt;div class=&#34;photoposition&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/Nexperience.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
+    &lt;section class=&#34;nposition bglb ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title&#34; style=&#34;color:#B51B17&#34;&gt;如何吸引和留存用户？&lt;/div&gt;
+            &lt;p class=&#34;project-p nhpm&#34;&gt;
+                通过解决用户切身痛点和应用运营技巧，吸引用户使用颈椎大作战，并长久使用下去。&lt;br&gt;&lt;br&gt;
+                &lt;a href=&#34;#Neck&#34; title=&#34;点击查看解决方案&#34;&gt;解决方案展示&lt;/a&gt;
             &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bglb&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34;&gt;迭代设计&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                
-                &amp;middot; 视频一级页面，直接激励用户运动&lt;br&gt;
-                &amp;middot; 打卡奖励激励用户坚持&lt;br&gt;
-                &amp;middot; 榜单激励用户互相比拼、提醒&lt;br&gt;
-                &lt;div class=&#34;photoposition&#34; style=&#34;width: 90%;&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/N2.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34; id=&#34;Neck&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;解决用户痛点&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    &lt;b&gt;难以坚持运动&lt;/b&gt;&lt;br&gt;
+                    &amp;middot; 每天打卡奖励奖金&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;②&lt;br&gt;
+                    &amp;middot; 建立团队模式，相互督促&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;nbsp;③&lt;br&gt;
+                &lt;/p&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    &lt;b&gt;姿势不标准&lt;/b&gt;&lt;br&gt;
+                    &amp;middot; 提供颈椎运动视频&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;①&lt;br&gt;
+                    &amp;middot; 提供免费专家纠正咨询服务&amp;emsp;&amp;emsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;④&lt;br&gt;
+                &lt;/p&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    ① 视频：次要信息。促进用户打卡坚持为主，当其需要动作正确性时观看视频&lt;br&gt;
+                    ② 打卡：每天8个任务，促进用户每天每隔一小时运动颈椎
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/N1card.jpg&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:参与模式&amp;nbsp;&amp;nbsp;中:创建团队&amp;nbsp;&amp;nbsp;右:邀请好友
+            &lt;/div&gt;
+        &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;Think&#34;&gt;我的思考&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &amp;middot; 要用慈母的方式激励用户，而不是用严父的方式强迫用户&lt;br&gt;
-                &amp;middot; 团队激励确实有天然的分享、督促特性，但功能相对复杂，需要根据平台的内容和属性进行取舍
-            &lt;/p&gt;
+    &lt;section class=&#34;nposition bglb ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;运营技巧&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    增加小程序的用户量、留存率，引导用户下载使用APP&lt;br&gt;
+                    &amp;middot; 测试题分享，引导用户做颈椎运动&lt;br&gt;
+                    &amp;middot; 提供专家免费指导动作、咨询相关健康问题，但需在APP上实现交流&lt;br&gt;
+                    &amp;middot; 奖金只能在APP上提现
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/N1sell.jpg&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:测试结果&amp;nbsp;&amp;nbsp;右:挑战结束&amp;nbsp;&amp;nbsp;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;用户与运营的平衡&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    老板的反馈&lt;br&gt;
+                    &amp;middot; 是否真的解决了用户的问题&lt;br&gt;
+                    &amp;middot; 娱乐性大于本质，需要简化&lt;br&gt;
+                    确实，只有解决了用户的需求，才能更好地吸引留存用户
+                &lt;/p&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                用户的重点应是运动而不是打卡，且打卡操作过程复杂。决定使用「用户体验地图」理清思路，有条理地优化。&lt;br&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm centerposition&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/Nexperience.png&#34; class=&#34;photosmaller&#34; /&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;nposition bglb ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;迭代设计&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    分析体验地图，团队模式和打卡繁琐需要简化，直击用户痛点；另外由于颈椎不适是易感知病症，测试的用途不大。故：&lt;br&gt;
+                    &amp;middot; 去掉测试&lt;br&gt;
+                    &amp;middot; 视频一级页面，直接激励用户运动&lt;br&gt;
+                    &amp;middot; 打卡奖励激励用户坚持&lt;br&gt;
+                    &amp;middot; 去掉团队激励，改为榜单激励用户互相比拼、提醒&lt;br&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/N2.jpg&#34; id=&#34;Neck&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:视频瀑布流&amp;nbsp;&amp;nbsp;中1:运动打卡&amp;nbsp;&amp;nbsp;中2:利益刺激&amp;nbsp;&amp;nbsp;右:关系刺激
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;我的思考&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    &amp;middot; 要用慈母的方式激励用户，而不是用严父的方式强迫用户。&lt;br&gt;
+                    &amp;middot; 团队激励确实有天然的分享、督促特性，但功能相对复杂，需要根据平台的内容和属性进行取舍。
+                &lt;/p&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;我的成长&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                &amp;middot; 通过大量调研，掌握一些运营方法，并熟练应用。&lt;br&gt;
+                &amp;middot; 总结出简化产品的方法和标准，不是单纯地减少页面，而是如何通过其他简单方式达到同样效果。
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
     &lt;/section&gt;
 &lt;/div&gt; 
 </description>
@@ -347,181 +390,211 @@
     </item>
     
     <item>
-      <title>全家小程序</title>
+      <title>如何优化「全家」使用体验</title>
       <link>https://yuting.casa/post/math-preview/</link>
       <pubDate>Mon, 25 May 2020 16:01:23 +0800</pubDate>
       
       <guid>https://yuting.casa/post/math-preview/</guid>
       
-        <description>&lt;div class=&#34;allcontent bgw&#34;&gt;
-    &lt;section class=&#34;bgcolorful&#34;&gt;
-        &lt;div class=&#34;titleposition&#34;&gt;
-            &lt;div class=&#34;project-name&#34;&gt;全家小程序 改版&lt;/div&gt;
-            &lt;p class=&#34;project-background&#34;&gt;提供会员快速积分付费，参与运营活动的平台&lt;/p&gt;
-        &lt;/div&gt;        
+        <description>&lt;div class=&#34;aup nobothblank bgw&#34;&gt;
+    &lt;section class=&#34;oneposition namecolor onetextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;h class=&#34;namesize&#34;&gt;全家小程序 改版&lt;/h&gt;
+                &lt;p class=&#34;onehpm onesize&#34;&gt;
+                    全家便利店遍布上海，从门店的位置、装修到服务、食物都独具匠心，但全家的小程序似乎只是把越来越多的功能堆砌起来，用户体验比较差，所以设计目标是让小程序更加易用美观。
+                &lt;/p&gt;
+                &lt;p class=&#34;oneppm onesize&#34;&gt;
+                    全家小程序：提供会员快速付费积分，参与运营活动的平台
+                &lt;/p&gt;
+            &lt;/div&gt;  
+        &lt;/div&gt;      
     &lt;/section&gt;
 
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;BG&#34;&gt;堆砌功能的界面&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                全家便利店遍布上海，从门店的位置、装修到服务、食物都独具匠心，但全家的小程序似乎只是把越来越多的功能堆砌起来，
-                用户体验比较差，所以我的目标是让小程序更加易用美观。
-                
-                &lt;div class=&#34;photoposition&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/Fcontract.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
+    &lt;section class=&#34;centerposition&#34;&gt;
+        &lt;img src=&#34;https://yuting.casa/image/FShow.jpg&#34; /&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;我的贡献&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                2019年4月，两天时间重新设计全家小程序首页。
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/Fcontract.jpg&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:改版前&amp;nbsp;&amp;nbsp;右:改版后
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bglb&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-HMW&#34;&gt;如何优化用户使用体验？&lt;/div&gt;
+    &lt;section class=&#34;nposition bglb ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title&#34; style=&#34;color:#B51B17&#34;&gt;如何优化用户使用体验？&lt;/div&gt;
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;R&#34;&gt;小程序的用途是什么&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;官方&lt;/b&gt;&lt;br&gt;
-                通过官方发布的新闻，可见小程序目的：&lt;br&gt;
-                &amp;middot; 增加用户粘性：注册会员渠道、提醒用户有积分、储存点标&lt;br&gt;
-                &amp;middot; 提高店员收银效率
-                &lt;div class=&#34;photoposition&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/Fnewold.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
-            
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;小程序功能&lt;/b&gt;&lt;br&gt;
-                &amp;middot; 积分付费、优惠活动、外卖、商城、吉祥物&lt;br&gt;
-                &amp;middot; 轮播图：关于手游的通知
-            &lt;/p&gt;
-
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;APP功能&lt;/b&gt;&lt;br&gt;
-                &amp;middot; 主要功能：会员积分、活动、商城&lt;br&gt;
-                &amp;middot; 活动：与美食商家合作，很多优惠与活动仅付费会员使用
-            &lt;/p&gt;
-            &lt;br&gt;
-            &lt;span class=&#34;emphasize&#34;&gt;&lt;b&gt;为什么全家有了APP还需要小程序?&lt;/b&gt;&lt;/span&gt;
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;小程序的用途是什么&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    通过官方发布的新闻，可见小程序目的：&lt;br&gt;
+                    &amp;middot; 增加用户粘性：注册会员渠道、提醒用户有积分、储存点标&lt;br&gt;
+                    &amp;middot; 提高店员收银效率
+                &lt;/p&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;研究全家小程序和APP&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    小程序功能&lt;br&gt;
+                    &amp;middot; 积分付费、优惠活动、外卖、商城、吉祥物&lt;br&gt;
+                    &amp;middot; 轮播图：关于手游的通知
+                &lt;/p&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    APP功能&lt;br&gt;
+                    &amp;middot; 主要功能：会员积分、活动、商城&lt;br&gt;
+                    &amp;middot; 活动：与美食商家合作，很多优惠与活动仅付费会员使用
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/Fnewold.jpg&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:小程序&amp;nbsp;&amp;nbsp;右:APP
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bglb&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;Spot&#34;&gt;小程序与APP的不同使用场景&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
+    &lt;section class=&#34;bglb nposition ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title&#34;&gt;为什么全家有APP还需小程序?&lt;/div&gt;
+            &lt;p class=&#34;project-p nhpm&#34;&gt;
                 通过桌面调研、
                 &lt;a href=&#34;https://shimo.im/sheets/1d3aVW5mOPf2Gaqg/MODOC/&#34; title=&#34;点击查看访谈记录&#34; target=&#34;_blank&#34;&gt;
                     用户访谈及用户使用小程序测试
                 &lt;/a&gt;，
                 深入了解小程序的功能，用户使用习惯，洞察，分析两者不同使用场景。
             &lt;/p&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;事实&lt;/b&gt;&lt;br&gt;
+            &lt;div class=&#34;project-title2&#34;&gt;事实&lt;/div&gt;
+            &lt;p class=&#34;project-p nppm&#34;&gt;
+                &amp;middot; 普通会员使用APP的比例是0&lt;br&gt;
+                &amp;middot; 大多数用户主要使用小程序「扫码积分」「查看积分」；使用APP「扫码积分」「查看积分」「商城」&lt;br&gt;
                 &amp;middot; 会员填写较多信息，较为繁琐，且需要收银员帮忙操作&lt;br&gt;
-                &amp;middot; 小程序积分付款过程繁杂，积分优惠力度小，2/3的调研对象表示不再积分，呈现中度用户转向浅度用户&lt;br&gt;
-                &amp;middot; 大多数用户主要使用小程序“扫码积分”“查看积分”；使用APP“扫码积分”“查看积分”“商城”
+                &amp;middot; 小程序积分付款过程繁杂，积分优惠力度小，2/3的调研对象表示不再积分，呈现中度用户转向浅度用户
             &lt;/p&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;洞察&lt;/b&gt;&lt;br&gt;
-                &amp;middot; 小程序和APP使用场景区分：&lt;br&gt;
-                小程序：实体店收银场景，具有便捷性&lt;br&gt;
-                APP：偏重于线上购物等场景&lt;br&gt;
+            &lt;div class=&#34;project-title2&#34;&gt;洞察&lt;/div&gt;
+            &lt;p class=&#34;project-p nppm&#34;&gt;    
+                小程序和APP目标用户&lt;br&gt;
+                &amp;middot; 小程序：非会员、普通会员、付费会员&lt;br&gt;
+                &amp;middot; APP：付费会员&lt;br&gt;
                 &lt;br&gt;
-                &amp;middot; 目标用户区分：&lt;br&gt;
-                小程序：非会员、普通会员、付费会员&lt;br&gt;
-                APP：付费会员&lt;br&gt;
+                通过用户使用小程序和APP高频功能的偏好，发现两者的使用场景有区别&lt;br&gt;
+                &amp;middot; 小程序：实体店收银场景，具有便捷性&lt;br&gt;
+                &amp;middot; APP：偏重于线上购物等场景&lt;br&gt;
                 &lt;br&gt;
-                &amp;middot; 小程序定位：&lt;br&gt;
-                主要帮助用户快速付款积分，提高用户使用小程序欲望，提高收银效率&lt;br&gt;
-                增强用户忠诚度（加强用户会员积分意识等）
+                小程序定位&lt;br&gt;
+                &amp;middot; 主要帮助用户快速付款积分，提高用户使用小程序欲望，提高收银效率&lt;br&gt;
+                &amp;middot; 增强用户忠诚度（加强用户会员积分意识等）
             &lt;/p&gt;
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;C&#34;&gt;验证洞察&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                调研同类竞品、相似场景小程序，洞察基本正确&lt;br&gt;
-                &lt;br&gt;
-                同类竞品：&lt;br&gt;
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title&#34;&gt;验证洞察&lt;/div&gt;
+            &lt;p class=&#34;project-p nppm&#34;&gt;
+                通过调研同类竞品、相似场景小程序，洞察基本正确&lt;br&gt;
+            &lt;/p&gt;
+            &lt;div class=&#34;project-title2&#34;&gt;同类竞品&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
                 &amp;middot; 用户给微信权限，则自动创建为会员&lt;br&gt;
                 &amp;middot; 会员码直接露出&lt;br&gt;
                 &amp;middot; 功能相对全家更佳顺畅完整，界面风格更简洁美观&lt;br&gt;
-                &amp;middot; 不同功能：扫码购、预约购买等&lt;br&gt;
-                &lt;div class=&#34;photoposition&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/Fother.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
-            &lt;br&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                相似场景：&lt;br&gt;
-                &amp;middot; 主要功能突出&lt;br&gt;
-                &amp;middot; 优惠活动多
-                &lt;div class=&#34;photoposition&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/Fother2.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
+                &amp;middot; 不同功能：扫码购、预约购买等
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/Fother.jpg&#34;/&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:711&amp;nbsp;&amp;nbsp;中:罗森&amp;nbsp;&amp;nbsp;右:便利蜂
+            &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;project-title2&#34;&gt;相似场景&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    &amp;middot; 主要功能突出&lt;br&gt;
+                    &amp;middot; 优惠活动多
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/Fother2.jpg&#34;/&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:大都会&amp;nbsp;&amp;nbsp;右:乘车码
+            &lt;/div&gt;
+        &lt;/div&gt;  
+    &lt;/section&gt;
+    
+    &lt;section class=&#34;nposition bglb ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;设计&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    根据定位，确立设计目标&lt;/b&gt;&lt;br&gt;
+                    &amp;middot; 优化会员积分付款流程、界面&lt;br&gt;
+                    &amp;middot; 增加用户粘性
+                &lt;/p&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;优化小程序使用流程&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                新用户注册：授权 &lt;span class=&#34;strikeout&#34;&gt;— 点会员 — 注册 — 填写验&lt;/span&gt;&lt;span class=&#34;strikeout&#34;&gt;证码、性别、生日 — 提交&lt;/span&gt;&lt;br&gt;
+                &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&lt;span class=&#34;emphasize&#34;&gt;授权即成会员&lt;/span&gt;&lt;br&gt;
+                老用户积分：&lt;span class=&#34;strikeout&#34;&gt;下拉微信打开小程序 — 打开会员&lt;/span&gt;&lt;span class=&#34;strikeout&#34;&gt;码&lt;/span&gt; — 展示会员码 — 微信支付&lt;br&gt;
+                &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&lt;span class=&#34;emphasize&#34;&gt;扫一扫二维码 — &lt;/span&gt;&lt;br&gt;
+                新流程：门店摆放小程序二维码，小程序首页会员码直接露出
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/Ffinish.jpg&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:门店二维码&amp;nbsp;&amp;nbsp;中:会员码露出&amp;nbsp;&amp;nbsp;右:旧版小程序
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;增加用户粘性&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    原小程序功能分类：&lt;br&gt;
+                    A类 - 积分付费：会员码、积分、&lt;span class=&#34;strikeout&#34;&gt;一键续费、账&lt;/span&gt;&lt;span class=&#34;strikeout&#34;&gt;单、卡包&lt;/span&gt;&amp;emsp;&lt;span class=&#34;emphasize&#34;&gt;放入二级页面&lt;/span&gt;&lt;br&gt;
+                    B类 - 增加用户粘性：惠生活（领券）、拼团、礼品卡&lt;br&gt;
+                    C类 - 创收功能：会员商城、外卖、轮播图、&lt;span class=&#34;strikeout&#34;&gt;吉&lt;/span&gt;&lt;span class=&#34;strikeout&#34;&gt;祥物、定位&lt;/span&gt;&amp;emsp;删除、定位放入外卖二级页面&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+                    先培养用户使用小程序，做好基本功能，用户常用功能 — A积分支付，再考虑突出能增加用户粘性的B功能和C创收功能，特别是最能吸引用户的领券功能。
+                    当用户习惯了使用小程序，更多地使用优惠后，再考虑露出「一键续费、账单、卡包」。
+                &lt;/p&gt;
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bglb&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;Solution&#34;&gt;设计&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;设计目标&lt;/b&gt;&lt;br&gt;
-                1.优化会员积分付款流程、界面&lt;br&gt;
-                2.增加用户粘性
-            &lt;/p&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;1.优化小程序使用流程&lt;/b&gt;&lt;br&gt;
-                根据调研，用户使用小程序注册和积分流程需简化：&lt;br&gt;
-                &amp;middot; 新用户注册：授权 — 
-                &lt;span class=&#34;strikeout&#34;&gt;点会员 — 注册 — 填写验证码、性别、生日 — 提交&lt;/span&gt;&lt;br&gt;
-                &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;授权即成会员&lt;br&gt;
-                &amp;middot; 老用户积分：&lt;span class=&#34;strikeout&#34;&gt;下拉微信打开小程序 — 打开会员码&lt;/span&gt; — 展示会员码 — 点击微信支付 — 完成支付&lt;br&gt;
-                &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;扫一扫二维码&lt;br&gt;
-                故：门店摆放小程序二维码，小程序首页会员码直接露出
-                &lt;div class=&#34;photoposition&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/Ffinish.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;2.增加用户粘性&lt;/b&gt;&lt;br&gt;
-                原小程序功能分类：&lt;br&gt;
-                A类 - 积分付费：会员码、积分、&lt;span class=&#34;strikeout&#34;&gt;一键续费、账单、卡包&lt;/span&gt;&amp;emsp;&lt;span class=&#34;emphasize&#34;&gt;放入二级页面&lt;/span&gt;&lt;br&gt;
-                B类 - 增加用户粘性：惠生活（领券）、拼团、礼品卡&lt;br&gt;
-                C类 - 辅助功能：会员商城、外卖、轮播图、&lt;span class=&#34;strikeout&#34;&gt;吉祥物、定位&lt;/span&gt;&amp;emsp;&lt;span class=&#34;emphasize&#34;&gt;删除、放入外卖二级页面&lt;/span&gt;&lt;br&gt;&lt;br&gt;
-                先培养用户使用小程序，做好基本功能，用户常用功能 — 积分支付，再考虑突出能增加用户粘性的功能，特别是最能吸引用户的领券功能。
-                当用户习惯了使用小程序，更多地使用优惠后，再考虑露出「一键续费、账单、卡包」。
-            &lt;/p&gt;
-            
-        &lt;/div&gt;
-    &lt;/section&gt;
-
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;Think&#34;&gt;我的思考&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &amp;middot; 学会分析设计产品的背后整个品牌产品，清楚区分其不同的商业目的、使用场景，确定对设计的影响&lt;br&gt;
-                &amp;middot; 商业运营需求固然重要，但要从现有产品实际情况出发，慢慢改善，而不是一步堆砌，无人使用&lt;br&gt;
-                &amp;middot; 相对于费尽心思使用各种调研方法，直接埋点获取数据能大大提高效率和正确性
-            &lt;/p&gt;
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;我的思考&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    &amp;middot; 学会分析设计产品的背后整个品牌产品，清楚区分其不同的商业目的、使用场景，确定对设计的影响。&lt;br&gt;
+                    &amp;middot; 商业运营需求固然重要，但要从现有产品实际情况出发，慢慢改善，而不是一步堆砌，无人使用。&lt;br&gt;
+                    &amp;middot; 相对于费尽心思使用各种调研方法，直接埋点获取数据能大大提高效率和正确性。
+                &lt;/p&gt;
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/section&gt;
 
@@ -531,120 +604,139 @@
     </item>
     
     <item>
-      <title>健康测试</title>
+      <title>如何条理化「创建测试题」</title>
       <link>https://yuting.casa/post/this-is-a-very-long-title/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>https://yuting.casa/post/this-is-a-very-long-title/</guid>
       
-        <description>&lt;div class=&#34;allcontent bgw&#34;&gt;
-    &lt;section class=&#34;bgb&#34; style=&#34;background-color:#73BE36;&#34;&gt;
-        &lt;div class=&#34;titleposition&#34;&gt;
-            &lt;div class=&#34;project-name&#34;&gt;健康测试&lt;/div&gt;
-            &lt;p class=&#34;project-background&#34;&gt;前端做健康测试，后台制作测试题&lt;/p&gt;
-        &lt;/div&gt;        
+        <description>&lt;div class=&#34;aup nobothblank bgw&#34;&gt;
+    &lt;section class=&#34;oneposition namecolor onetextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+            &lt;div class=&#34;namesize&#34;&gt;健康测试&lt;/div&gt;
+            &lt;p class=&#34;onehpm onesize&#34;&gt;
+                为增加APP丰富性和专业性，需增加健康测试功能。由于公司爬虫等渠道无法获取测试题答案逻辑，且每个测试的答案逻辑不同，则需专家人工录入后台系统。
+            &lt;/p&gt;
+            &lt;p class=&#34;oneppm onesize&#34;&gt;
+                健康测试：前端-健康测试，后台-制作测试题。
+            &lt;/p&gt;
+            &lt;/div&gt;   
+        &lt;/div&gt;     
     &lt;/section&gt;
 
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;BG&#34;&gt;背景&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;收到健康测试需求&lt;/b&gt;&lt;br&gt;
-                为增加APP丰富性和专业性，需增加健康测试功能，且由于公司爬虫等渠道无法获取测试题答案逻辑，需专家人工录入后台系统。&lt;br&gt;
-                &lt;br&gt;
-                
-                &lt;b&gt;用户为什么要做健康测试？&lt;/b&gt;&lt;br&gt;
-                通过31份&lt;a href=&#34;http://www.wenjuan.com/r/n/bYzI32Q?vcode=c445ac8c291d91a6e6e21dd574e1ab8e&#34; title=&#34;点击查看问卷数据&#34; target=&#34;_blank&#34;&gt;问卷调查&lt;/a&gt;显示，用户做测试主要目的是关注自己的健康状态，排除患某些疾病可能性&lt;br&gt;
-            &lt;/p&gt;
+    &lt;section class=&#34;centerposition&#34;&gt;
+        &lt;img src=&#34;https://yuting.casa/image/TShow.jpg&#34; /&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;前端设计&lt;/div&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;根据任务流程判断每步设计点&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    &lt;table&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt;&lt;b&gt;任务流程&lt;/b&gt;&lt;/td&gt;
+                            &lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;b&gt;设计点&lt;/b&gt;&lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;tr&gt;
+                        &lt;td&gt;选择测试某个/任一疾病&lt;/td&gt;
+                        &lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;让用户快速选择到心仪测试（搜索、热门、分类）&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                        &lt;td&gt;测试&lt;/td&gt;
+                        &lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;做题过程简单快捷&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt;测试结果&lt;/td&gt;
+                            &lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;不同测试结果，推送不同内容
+                            &lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt; &lt;/td&gt;
+                            &lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;好：尝试其他测试 / 分享 / 重测&lt;br&gt;
+                                &amp;nbsp;&amp;nbsp;&amp;nbsp;坏：咨询专家 / 分享 / 重测
+                            &lt;/td&gt;
+                        &lt;/tr&gt;
+                     &lt;/table&gt;
+                &lt;/p&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;测试题调研&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    收集大量现有测试题，筛选并分类。&lt;br&gt;
+                    通过31份&lt;a href=&#34;http://www.wenjuan.com/r/n/bYzI32Q?vcode=c445ac8c291d91a6e6e21dd574e1ab8e&#34; title=&#34;点击查看问卷数据&#34; target=&#34;_blank&#34;&gt;问卷调查&lt;/a&gt;和调研同类产品显示，用户对测试类型的偏好：&lt;br&gt;
+                    健康 &gt; 趣味 &gt; 身体指标 &gt; 疾病自测（作为其位置参考）
+                &lt;/p&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    身体指标：体脂率、代谢率、标准身材比例计算、有氧运动心率...&lt;br&gt;
+                    健康：肾健康、头发健康、牙齿健康、体适能、血管老化...&lt;br&gt;
+                    疾病自测：慢性胃炎、女性乳房健康、睡眠障碍、色盲色弱、社交恐惧症...&lt;br&gt;
+                    趣味：玻璃心、焦虑感、读心能力...&lt;br&gt;
+                    其他：左右脑使用报告、旺财力、几级老烟枪...
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/TPhone.jpg&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:测试首页&amp;nbsp;&amp;nbsp;中1:测试&amp;nbsp;&amp;nbsp;中2:好结果&amp;nbsp;&amp;nbsp;右:坏结果
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bglb&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;B&#34;&gt;前端设计&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &lt;b&gt;1 根据任务流程判断每步设计点&lt;/b&gt;&lt;br&gt;
-                测试疾病 / 随便看看：让用户快速选择到心仪测试（热门、分类、搜索）&lt;br&gt;
-                测试：做题过程简单快捷&lt;br&gt;
-                测试结果：不同测试结果，推送不同内容&lt;br&gt;
-                &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;好：尝试其他测试 / 分享 / 重测&lt;br&gt;
-                &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;坏：咨询专家 / 分享 / 重测&lt;br&gt;
-                &lt;br&gt;
-                &lt;b&gt;2 测试题调研&lt;/b&gt;&lt;br&gt;
-                收集大量现有测试题，筛选并分类&lt;br&gt;
-                &lt;br&gt;
-                身体指标：体脂率、代谢率、标准身材比例计算、有氧运动心率...&lt;br&gt;
-                健康：肾健康、头发健康、牙齿健康、体适能、血管老化...&lt;br&gt;
-                疾病自测：慢性胃炎、女性乳房健康、睡眠障碍、色盲色弱、社交恐惧症...&lt;br&gt;
-                趣味：玻璃心、焦虑感、读心能力...&lt;br&gt;
-                其他：左右脑使用报告、旺财力、几级老烟枪...&lt;br&gt;
-                &lt;br&gt;
-                &lt;b&gt;3 设计&lt;/b&gt;&lt;br&gt;
-                &lt;div class=&#34;photoposition&#34; style=&#34;width: 90%;&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/Tphone.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
+    &lt;section class=&#34;nposition bglb ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;如何条理化「创建测试题」？&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    分类前端测试题信息：基本信息、题目、答案&lt;br&gt;
+                    增加节点：分块、分页&lt;br&gt;
+                    界面：面包屑、卡片式分块、加大编辑状态和完成状态区别
+                &lt;/p&gt;
+                &lt;div class=&#34;project-title2&#34;&gt;总结前端题库特点&lt;/div&gt;
+                &lt;p class=&#34;project-p nppm&#34;&gt;
+                    题目类型：单项选择题、填空题&lt;br&gt;
+                    答案逻辑：计分、公式、综合每题答案、选择最多、随机答案
+                    &lt;div class=&#34;pstext&#34;&gt;
+                        计分：每道选择题的不同选项对应不同分值，综合得分在不同分值段，对应不同答案&lt;br&gt;
+                        公式：每个填空题的值，经过公式计算后的值在不同分值段，对应不同答案&lt;br&gt;
+                        综合每题答案：每道选择题的不同选项对应不同的答案，最后综合所有答案&lt;br&gt;
+                        选择最多：所有选择题选择选项ABCD中，选择最多的为答案&lt;br&gt;
+                        随机答案：在几个固定答案中随机给答案&lt;br&gt;
+                    &lt;/div&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/Ttwo.jpg&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                左:测试结果&amp;nbsp;&amp;nbsp;中:后台制作测试题(基本信息)&amp;nbsp;&amp;nbsp;右:测试主页
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/TQuestion.jpg&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                制作测试题目
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;pimgm&#34;&gt;
+            &lt;img src=&#34;https://yuting.casa/image/TAnswer.jpg&#34; /&gt;
+            &lt;div class=&#34;phototext&#34;&gt;
+                答案逻辑
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/section&gt;
 
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;A&#34;&gt;后台设计&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                1 总结前端题库&lt;br&gt;
-                题目类型：单项选择题、填空题&lt;br&gt;
-                答案逻辑：计分、公式、综合每题答案、选择最多、随机答案&lt;br&gt;
-                &lt;br&gt;
-                2 使用情景&lt;br&gt;
-                登录 — 填写测试基本信息 — 选择题型（选择、填空）— 完善题目 — 选择逻辑模式 — 完善逻辑模式 — 发布&lt;br&gt;
-                &lt;br&gt;
-                3 设计&lt;br&gt;
-                &lt;br&gt;
-                首页&lt;br&gt;
-                &lt;div class=&#34;photoposition&#34; style=&#34;width: 80%;&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/Tmac.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-                &lt;br&gt;
-                &lt;p class=&#34;project-p&#34;&gt;测试题基本信息&lt;/p&gt;
-                &lt;div class=&#34;photoposition&#34; style=&#34;width: 80%;&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/Tcontract.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem;&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-                &lt;br&gt;
-                &lt;p class=&#34;project-p&#34;&gt;制作测试题目&lt;/p&gt;
-                &lt;div class=&#34;photoposition&#34; style=&#34;width:80%;&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/TQ.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-                &lt;br&gt;
-                &lt;p class=&#34;project-p&#34;&gt;测试答案逻辑&lt;/p&gt;
-                &lt;div class=&#34;photoposition&#34; style=&#34;width: 80%;&#34;&gt;
-                    &lt;figure&gt;
-                        &lt;img src=&#34;https://yuting.casa/image/TA.png&#34; alt=&#34;.&#34; style=&#34;margin-left: -2rem&#34;&gt;
-                    &lt;/figure&gt;
-                &lt;/div&gt;
-            &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/section&gt;
-
-    &lt;section class=&#34;bglb&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
-            &lt;div class=&#34;project-title&#34; id=&#34;Think&#34;&gt;我的思考&lt;/div&gt;
-            &lt;p class=&#34;project-p&#34;&gt;
-                &amp;middot; 相比于前端写每个测试题，开发测试题制作后台性价比更低，因为测试题的体量不是非常大，但专家有制作个性化问答需求，后台则是一举两得。&lt;br&gt;
-                &amp;middot; 虽然由于平台初期内容少，迫于无奈用健康测试补充，但经过我的调研，测试题的实际吸引力低，没有太大存在价值。
-            &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/section&gt;
-
-    &lt;section class=&#34;bgw&#34;&gt;
-        &lt;div class=&#34;textposition&#34;&gt;
+    &lt;section class=&#34;nposition bgw ntextstyle rlblank&#34;&gt;
+        &lt;div class=&#34;centerposition&#34;&gt;
+            &lt;div class=&#34;half&#34;&gt;
+                &lt;div class=&#34;project-title&#34;&gt;我的思考&lt;/div&gt;
+                &lt;p class=&#34;project-p nhpm&#34;&gt;
+                    &amp;middot; 相比于前端写每个测试题，开发测试题制作后台性价比更低，因为测试题的体量不是非常大，但专家有制作个性化问答需求，后台则是一举两得。&lt;br&gt;
+                    &lt;br&gt;
+                    &amp;middot; 虽然由于平台初期内容少，迫于无奈用健康测试补充，但经过我的调研，测试题的实际吸引力低，没有太大存在价值。
+                &lt;/p&gt;
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/section&gt;
 &lt;/div&gt; 
