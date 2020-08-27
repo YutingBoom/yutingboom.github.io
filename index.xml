@@ -775,5 +775,36 @@
       
     </item>
     
+    <item>
+      <title>关于</title>
+      <link>https://yuting.casa/about.zh/</link>
+      <pubDate>Fri, 20 Mar 2020 21:38:52 +0800</pubDate>
+      
+      <guid>https://yuting.casa/about.zh/</guid>
+      
+        <description>&lt;div style=&#34;margin:0 0 0 0em; padding: 0 0 0 0;&#34;&gt;
+    &lt;div style=&#34;right: 0; width=200%; position: relative; margin-top: 0rem;&#34;&gt;
+        &lt;img src=&#34;https://yuting.casa/image/self.jpg&#34; width=200%;/&gt;
+    &lt;/div&gt;
+
+&lt;div style=&#34;width:100%&#34;&gt;
+    &lt;div style=&#34;width: 50%; position: relative; left: 0; margin: 3em auto 0 6em;&#34;&gt;
+        &lt;div style=&#34;font-weight: 500; font-size: 1.8rem; margin-bottom: 0.6em;&#34;&gt;我是雨婷,&lt;/div&gt;
+        &lt;div style=&#34;font-size: 0.9em;&#34;&gt;
+            毕业于南京林业大学工业设计专业。曾在上海浪尖实习工业设计，设计了多款工业产品；后进入上海易恒集团成为一名产品经理兼交互设计师，从0到1.1参与建设健康咨询产品。&lt;br&gt;
+            &lt;br&gt;
+            从工业产品到互联网软件，都是我喜欢做的事情 ─ 帮助人们解决问题。相对于工业产品的巨额开模制造成本，软件给予了更多普通人改变世界的机会，所以我投身于软件，继续为人们解决问题。&lt;br&gt;
+            &lt;br&gt;
+            生活中，我喜欢&lt;a href=&#34;https://unsplash.com/@yutinghuhu&#34; title=&#34;Unsplash&#34; target=&#34;_blank&#34;&gt;旅行摄影&lt;/a&gt;、&lt;a href=&#34;#&#34; onClick=&#34;document.getElementById(&#39;words&#39;).style.display=&#39;block&#39;; return false;&#34;&gt;运动&lt;/a&gt;，是个音乐迷。
+            &lt;div id=&#34;words&#34; style=&#34;display:none; font-size:0.2rem;&#34;&gt;在Nike Run Club添加YUTING LIU和我成为运动好友呀～ &amp;#128512&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;  
+
+&lt;/div&gt;
+</description>
+      
+    </item>
+    
   </channel>
 </rss>
